@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\Messaging.Common\bin\Debug\net8.0\Messaging.Common.deps.json
+C:\Users\ASUS\source\repos\Messaging.Common\bin\Debug\net8.0\Messaging.Common.dll
+C:\Users\ASUS\source\repos\Messaging.Common\bin\Debug\net8.0\Messaging.Common.pdb
+C:\Users\ASUS\source\repos\Messaging.Common\obj\Debug\net8.0\Messaging.Common.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Messaging.Common\obj\Debug\net8.0\Messaging.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Messaging.Common\obj\Debug\net8.0\Messaging.Common.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Messaging.Common\obj\Debug\net8.0\Messaging.Common.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Messaging.Common\obj\Debug\net8.0\Messaging.Common.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Messaging.Common\obj\Debug\net8.0\Messaging.Common.sourcelink.json
+C:\Users\ASUS\source\repos\Messaging.Common\obj\Debug\net8.0\Messaging.Common.dll
+C:\Users\ASUS\source\repos\Messaging.Common\obj\Debug\net8.0\refint\Messaging.Common.dll
+C:\Users\ASUS\source\repos\Messaging.Common\obj\Debug\net8.0\Messaging.Common.pdb
+C:\Users\ASUS\source\repos\Messaging.Common\obj\Debug\net8.0\ref\Messaging.Common.dll
